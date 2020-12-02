@@ -10,7 +10,7 @@
         Web Basic UPN Veteran Jakarta, 2020. Tema yang saya gunakan dalam Website
         ini adalah "All About Music".
     </p>
-    <h1>Format dalam website ini terdiri dari : </h1>
+    <h1>Format website</h1>
     <ol>
         <li>Header</li>
         <li> Navbar
